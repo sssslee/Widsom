@@ -1,4 +1,4 @@
-# Fields are cheap.  Overloading is expensive!
+# Fields are cheap.  Overloads are expensive!
 
 Pay the price once, not at every use.
 Complexity removed from the representation reappears as interpretation.
